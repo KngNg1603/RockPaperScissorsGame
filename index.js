@@ -36,7 +36,6 @@ function playerChoose(idx) {
 
 function computerChoose() {
     randomResult = Math.floor(Math.random() * 3); 
-    console.log(randomResult);
     for (var i = 0; i < computerChooseList.length; i++) {
         if(!computerChooseList[i].classList.contains("hidden")) {
             computerChooseList[i].classList.add("hidden");

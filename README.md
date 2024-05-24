@@ -1,2 +1,2 @@
 # RockPaperScissorsGame
-Self study project
+Self study project to learn JavaScript
